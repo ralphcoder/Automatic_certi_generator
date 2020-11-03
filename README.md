@@ -20,7 +20,7 @@ The Second notebook along with generating certificates can send it directly to t
 
 Replace the data.csv in assets folder with the name and e-mail in the format 
 
-Name,E-mail
+Name, E-mail
 
 John Doe,John@gmail.com
 
